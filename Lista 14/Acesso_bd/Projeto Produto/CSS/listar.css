@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lobster', sans-serif;
+}
+
+body {
+    align-items: center;
+    min-height: 100vh;
+    background: url('fote6.jpg') no-repeat;
+    background-size: cover;
+}
+
+.wrapper{
+    width: 420px;
+    background: transparent;
+    border: 2px solid #038bbb;
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    backdrop-filter: blur(20px);
+ }
+
+ .wrapper h1{
+    font-size: 36px;
+    text-align: center;
+ }
+
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 4%;
+}

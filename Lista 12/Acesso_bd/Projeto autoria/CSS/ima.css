@@ -1,0 +1,6 @@
+.image-container img {
+    width: 200px; /* Define a largura da imagem como 200 pixels */
+    height: auto; /* Mantém a proporção da altura para evitar distorção */
+    display: block; /* Remove espaçamento extra abaixo da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente dentro do div */
+    }
